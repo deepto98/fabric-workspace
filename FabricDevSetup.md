@@ -34,4 +34,4 @@ Add bdls as a new dependency
 go get github.com/BDLS-bft/bdls
 go mod tidy
 go mod vendor
-test3
+test3s
