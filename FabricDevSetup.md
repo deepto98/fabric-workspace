@@ -30,7 +30,7 @@ ginkgo -r ./integration/nwo
 Build fabric:
 make dist-clean all
 
-
+Add bdls as a dependency
 go get github.com/BDLS-bft/bdls
 go mod tidy
 go mod vendor
