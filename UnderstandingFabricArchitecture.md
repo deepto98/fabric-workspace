@@ -61,7 +61,7 @@ The primary components of Fabric are:
       *  This “permissioned” notion of Hyperledger Fabric, coupled with the existence and capabilities of channels, helps address scenarios where privacy and confidentiality are paramount concerns.
   6. Consensus : Consensus is achieved ultimately when the order and results of a block’s transactions have met the explicit policy criteria checks. https://hyperledger-fabric.readthedocs.io/en/release-2.5/fabric_model.html#consensus
   
-
+    Now, I'll study the ordering service, since thats the part I need to understand for the mentorship project, will come back and cover the rest of the docs
 
  
 
